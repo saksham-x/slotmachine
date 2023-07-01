@@ -5,6 +5,7 @@
 // 5. Check results
 // 6. Give winnner 's money 
 // 7. Play again 
+// gands
 
 const prompt = require('prompt-sync')();
 
